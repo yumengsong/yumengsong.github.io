@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yumeng</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-07T06:15:13.681Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Yumeng Song</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RED-EDITION-EDC</title>
+    <link href="http://yoursite.com/2018/09/07/RED-EDITION-EDC/"/>
+    <id>http://yoursite.com/2018/09/07/RED-EDITION-EDC/</id>
+    <published>2018-09-07T06:09:43.000Z</published>
+    <updated>2018-09-07T06:15:13.681Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="耳机"><a href="#耳机" class="headerlink" title="耳机"></a>耳机</h3><p>Beats Studio3 Wireless Over‑Ear Headphones - Red<br><a href="https://www.apple.com/shop/product/MQUF2LL/A/beats-studio3-wireless-over-ear-headphones-shadow-gray?cid=app_Beats_Studio3Wireless_PDP_US_AOS_StudioWireless" target="_blank" rel="noopener">LINK</a></p><h3 id="音箱"><a href="#音箱" class="headerlink" title="音箱"></a>音箱</h3><h3 id="充电宝"><a href="#充电宝" class="headerlink" title="充电宝"></a>充电宝</h3><h3 id="包"><a href="#包" class="headerlink" title="包"></a>包</h3><h3 id="手机"><a href="#手机" class="headerlink" title="手机"></a>手机</h3><p>iPhone 8 Plus<br><a href="https://www.apple.com/shop/buy-iphone/iphone-8#01,20" target="_blank" rel="noopener">Link</a></p><h3 id="钱包"><a href="#钱包" class="headerlink" title="钱包"></a>钱包</h3><p>Louis Vuitton x Supreme<br>Red and White Porte Carte Card Case Wallet<br><a href="https://www.tradesy.com/i/louis-vuitton-x-supreme-red-and-white-porte-carte-card-case-wallet/21854958/" target="_blank" rel="noopener">LINK</a></p><h3 id="鞋"><a href="#鞋" class="headerlink" title="鞋"></a>鞋</h3><h3 id="游戏机"><a href="#游戏机" class="headerlink" title="游戏机"></a>游戏机</h3><p>Nintendo Switch<br><a href="https://store.nintendo.co.uk/nintendo-switch-console/nintendo-switch-with-red-joy-con-controllers-super-mario-odyssey/11553478.html" target="_blank" rel="noopener">LINK</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;耳机&quot;&gt;&lt;a href=&quot;#耳机&quot; class=&quot;headerlink&quot; title=&quot;耳机&quot;&gt;&lt;/a&gt;耳机&lt;/h3&gt;&lt;p&gt;Beats Studio3 Wireless Over‑Ear Headphones - Red&lt;br&gt;&lt;a href=&quot;https://w
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ABOUT</title>
+    <link href="http://yoursite.com/2018/03/24/ABOUT/"/>
+    <id>http://yoursite.com/2018/03/24/ABOUT/</id>
+    <published>2018-03-24T13:03:29.000Z</published>
+    <updated>2018-03-24T13:03:29.471Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/24/hello-world/"/>
+    <id>http://yoursite.com/2018/03/24/hello-world/</id>
+    <published>2018-03-24T10:54:28.647Z</published>
+    <updated>2018-03-24T10:54:28.648Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
